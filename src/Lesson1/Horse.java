@@ -5,4 +5,5 @@ public class Horse
     String name;
     String color;
     int weight;
+    String eyeColor;
 }
