@@ -2,6 +2,6 @@ package Lesson1;
 
 public class Elephant
 {
-    String species;
+    String name;
     int trunkLenght;
 }
