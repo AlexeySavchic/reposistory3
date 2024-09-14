@@ -4,4 +4,5 @@ public class Snake
 {
     String name;
     int lenght;
+    String color;
 }
