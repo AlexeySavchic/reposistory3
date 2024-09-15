@@ -1,10 +1,9 @@
 package Lesson1;
 
-public class Horse
+public class Snake
 {
     String name;
+    int lenght;
     String color;
     int weight;
-    String eyeColor;
-    int speed;
 }
